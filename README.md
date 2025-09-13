@@ -1,5 +1,5 @@
 # 📦 Mini E-Commerce Platform
-A modern, full-featured e-commerce platform built with React, TypeScript, Tailwind CSS, and a Node.js + Express backend with MongoDB for persistent storage.
+A modern, full-featured e-commerce platform built with **React, TypeScript, Tailwind CSS**, and a **Node.js + Express backend** with **MongoDB** for persistent storage.
 
 ## 🗄️ Data Storage
 ✅ Frontend (LocalStorage)
