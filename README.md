@@ -105,6 +105,7 @@ npm run dev
 The frontend runs on: http://localhost:5173 (or assigned port)
 
 ## 📁 Folder Structure
+```
 backend/
 ├─ server.js
 ├─ models/
@@ -120,6 +121,8 @@ frontend/
 │  │  └─ cartStore.ts
 │  └─ App.tsx
 └─ package.json
+```
+
 
 ## ⚙ Dependencies
 Backend:
